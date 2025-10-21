@@ -6,9 +6,7 @@ Aluno: Emanuelly Clarissa de Souza Silva
 
 Python: Linguagem utilizada para desenvolver os algoritmos.
 
-Gemini CLI: Ferramenta de IA utilizada como assistente na criação dos códigos. Executada via npx e autenticada com Google:
-
-npx https://github.com/google/gemini-cli
+Gemini CLI: Ferramenta de IA utilizada como assistente na criação dos códigos. Executada via npx e autenticada com Google.
 
 2. Descrição do Projeto
 
